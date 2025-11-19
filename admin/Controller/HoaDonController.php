@@ -18,7 +18,7 @@ class HoaDonController
 
     public function create()
     {
-        include_once("./views/danhmuc/create.php");
+        include_once("./views/hoadon/create.php");
     }
 
     public function store() {
