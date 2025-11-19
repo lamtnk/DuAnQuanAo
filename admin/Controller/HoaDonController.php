@@ -1,6 +1,6 @@
 <?php
 include_once("Model/DanhMuc.php");
-class DanhMucController
+class HoaDonController
 {
     private $danhMuc;
 
