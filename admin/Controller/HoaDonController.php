@@ -13,7 +13,7 @@ class HoaDonController
     public function index()
     {
         $allDanhMuc = $this->danhMuc->getAll();
-        include_once("./views/danhmuc/list.php");
+        include_once("./views/hoadon/list.php");
     }
 
     public function create()
